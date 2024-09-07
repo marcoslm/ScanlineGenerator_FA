@@ -1,4 +1,4 @@
-# Scanline Generator - VGA Scanlines Simulation
+# VGA Scanline Generator
 
 Este proyecto fue diseñado para **Factory Arcade** ([sitio web](https://www.factoryarcade.es/)), una empresa dedicada a la restauración y fabricación de máquinas recreativas arcade. El objetivo es simular scanlines CRT en pantallas LCD. A diferencia de otros "slg" similares, este modelo soporta resoluciones **SVGA/XGA**.
 
