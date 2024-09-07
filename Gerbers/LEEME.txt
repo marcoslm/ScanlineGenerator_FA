@@ -1,0 +1,8 @@
+ ARCHIVO        CAPA                    FORMATO
+-------------- ----------------------- ----------------
+ScanGen10.GTL	Top Copper       	GERBER_RS274X
+ScanGen10.GBL	Bottom Copper    	GERBER_RS274X
+ScanGen10.GTS	Top Soldermask   	GERBER_RS274X
+ScanGen10.GBS	Bottom Soldermask	GERBER_RS274X
+ScanGen10.GTO	Top Silkscreen   	GERBER_RS274X
+ScanGen10.TXT	Drills           	EXCELLON
