@@ -10,7 +10,9 @@ Este proyecto fue diseñado en 2015 para **Factory Arcade** ([sitio web](https:/
 - Soporta resoluciones VGA, SVGA y XGA, proporcionando una simulación fiel de las líneas de barrido.
 - Sin lag de ninguna clase.
 
-  En este repositorio encontrarás los archivos de diseño en formato Eagle y los archivos Gerber listos para fabricación.
+
+En este repositorio encontrarás los archivos de diseño en formato Eagle y los archivos Gerber listos para enviar a fabricación.
+
   
 ## Conectores y Jumpers de Configuración
 
