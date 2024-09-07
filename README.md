@@ -2,6 +2,8 @@
 
 Este proyecto fue diseñado para **Factory Arcade**, una empresa dedicada a la restauración y fabricación de máquinas recreativas arcade. El objetivo es simular scanlines CRT en pantallas LCD. A diferencia de otros "slg" similares, este modelo soporta resoluciones **SVGA/XGA**.
 
+![IMG-20151215-WA0005](https://github.com/user-attachments/assets/3bf72a7b-6e77-4fea-be2c-e7b2a4ed85e0)
+
 ## Características
 
 - Alimentación desde el conector VGA de entrada o mediante el conector JP1 con una alimentación estabilizada de 5V DC.
@@ -28,6 +30,10 @@ Si al conectarlo todo tienes problemas de imagen:
 ## Rework en la Versión 1a
 
 En esta primera versión del diseño, hay un pequeño error debido a la falta de una resistencia pull-down en el jumper JP2. Para corregirlo, deberás soldar una resistencia de 10k de forma manual.
+
+![IMG-20160426-WA0000](https://github.com/user-attachments/assets/c169e3b7-078b-4e0b-8db1-8410eff73a20)
+![IMG-20160426-WA0001](https://github.com/user-attachments/assets/e5d092f3-7717-4853-927b-8371a36ab30c)
+![IMAG3637](https://github.com/user-attachments/assets/f70ed3a6-bd02-4568-b4b4-7be5ab5abe71)
 
 ## Bill of Materials (BOM)
 
