@@ -16,15 +16,15 @@ En este repositorio encontrarás los archivos de diseño en formato Eagle y los 
   
 ## Conectores y Jumpers de Configuración
 
-| Conector/Jumpers | Nombre      | Descripción |
-|------------------|-------------|-------------|
-| CON1             | VGA OUT     | Salida VGA hacia el monitor |
-| CON2             | VGA IN      | Entrada VGA desde la placa o PC arcade |
-| JP1              | +5V         | Alimentación opcional de 5V DC |
-| JP2              | ON/OFF      | 1-2: scanlines activas, 2-3: scanlines desactivadas |
-| JP3              | POLARITY    | Polaridad de las señales de sincronización (según entrada) |
-| JP4              | WIDTH       | Selección del grosor del scanline (fino o grueso) |
-| JP5              | EVEN/ODD    | Selección de scanlines en líneas pares o impares del trazado |
+| Conector/Jumper | Nombre      | Descripción |
+|-----------------|-------------|-------------|
+| CON1            | VGA OUT     | Salida VGA hacia el monitor |
+| CON2            | VGA IN      | Entrada VGA desde la placa o PC arcade |
+| JP1             | +5V         | Alimentación opcional de 5V DC |
+| JP2             | ON/OFF      | 1-2: scanlines activas, 2-3: scanlines desactivadas |
+| JP3             | POLARITY    | Polaridad de las señales de sincronización (según entrada) |
+| JP4             | WIDTH       | Selección del grosor del scanline (fino o grueso) |
+| JP5             | EVEN/ODD    | Selección de scanlines en líneas pares o impares del trazado |
 
 ## Solución de Problemas
 
