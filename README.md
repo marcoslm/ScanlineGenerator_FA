@@ -9,6 +9,8 @@ Este proyecto fue diseñado en 2015 para **Factory Arcade** ([sitio web](https:/
 - Alimentación desde el conector VGA de entrada o mediante el conector JP1 con una alimentación estabilizada de 5V DC.
 - Soporta resoluciones VGA, SVGA y XGA, proporcionando una simulación fiel de las líneas de barrido.
 - Sin lag de ninguna clase.
+
+  En este repositorio encontrarás los archivos de diseño en formato Eagle y los archivos Gerber listos para fabricación.
   
 ## Conectores y Jumpers de Configuración
 
