@@ -8,6 +8,7 @@ Este proyecto fue diseñado para **Factory Arcade** ([sitio web](https://www.fac
 
 - Alimentación desde el conector VGA de entrada o mediante el conector JP1 con una alimentación estabilizada de 5V DC.
 - Soporta resoluciones VGA, SVGA y XGA, proporcionando una simulación fiel de las líneas de barrido.
+- Sin lag de ninguna clase.
   
 ## Conectores y Jumpers de Configuración
 
@@ -26,7 +27,6 @@ Este proyecto fue diseñado para **Factory Arcade** ([sitio web](https://www.fac
 Si al conectarlo todo tienes problemas de imagen:
 - Verifica la configuración de la polaridad (JP3).
 - Es posible que la señal de 5V desde el conector VGA IN sea insuficiente o inexistente. En ese caso, puedes alimentar la placa directamente a través de JP1 con 5V DC regulados.
-- Sin lag de ninguna clase.
 
 ## Rework en la Versión 1a
 
