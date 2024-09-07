@@ -2,7 +2,7 @@
 
 Este proyecto fue diseñado en 2015 para **Factory Arcade** ([sitio web](https://www.factoryarcade.es/)), una empresa dedicada a la restauración y fabricación de máquinas recreativas arcade. El objetivo es simular scanlines CRT en pantallas LCD. A diferencia de otros "slg" similares, este modelo soporta resoluciones **SVGA/XGA**.
 
-![IMG-20151215-WA0005](https://github.com/user-attachments/assets/3bf72a7b-6e77-4fea-be2c-e7b2a4ed85e0)
+![IMG-20151215-WA0005](https://github.com/user-attachments/assets/84fa6a8f-30c0-404f-965c-698c19703aed)
 
 ## Características
 
